@@ -5,6 +5,8 @@ Development Log
 
 2025
 
+[v0.0]
+
 11.27：确定程序整体框架
 
 11.28：创建线程、定时器，优化Decodef函数
@@ -21,4 +23,10 @@ Development Log
 
 12.11：写入Pricef、Dprnf函数，优化Routef、Cash_flowf、Planeinf_iptf、Financef、Fleetf函数，删除Thread_system_input线程
 
+[v0.1]
+
 12.14：写入define.h头文件，写入Sellf、Leasef、Planeinf_inif函数，重架构Fleetf函数，优化Thread_notice_input线程、优化Decodef、Cash_flowf函数
+
+[v0.2]
+
+12.27：写入Status_judgef、Gametime_judgef函数，重架构Planeinf_iptf、Purchasef、Purchase_introf、Plane_judgef函数，删除Route_judgef、Leasef函数，优化Play_timef函数，优化飞机具体数据
