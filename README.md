@@ -31,4 +31,6 @@ Development Log
 
 12.27：写入Status_judgef、Gametime_judgef函数，重架构Planeinf_iptf、Purchasef、Purchase_introf、Plane_judgef函数，删除Route_judgef、Leasef函数，优化Play_timef函数，优化飞机具体数据
 
-12.28：写入Errorf函数，将Plane_judgef函数更名为Matchf函数，重架构Matchf、Purchasef函数，优化Decodef函数，优化飞机具体数据
+12.28：写入Errorf函数，将Plane_judgef函数更名为Matchf函数，重架构Matchf、Purchasef函数，优化Decodef函数，优化数据结构，优化飞机具体数据
+
+12.30：写入Purchase_updatef函数，重架构Matchf、Purchasef、Purchase_introf函数，优化数据结构
