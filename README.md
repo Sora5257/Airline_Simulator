@@ -35,4 +35,4 @@ Development Log
 
 12.30：写入Purchase_updatef函数，重架构Matchf、Purchasef、Purchase_introf函数，优化数据结构
 
-12.31：将Planeinf_inif函数更名为Inif函数，将Route_arrangef函数更名为Idle_updatef函数，重架构Inif、Idle_updatef函数，优化Purchase_updatef、Purchase_introf、Purchasef函数
+12.31：将Planeinf_inif函数更名为Inif函数，将Route_arrangef函数更名为Idle_updatef函数，重架构Inif、Idle_updatef函数，优化Purchase_updatef、Purchase_introf、Purchasef、Status_judgef函数
