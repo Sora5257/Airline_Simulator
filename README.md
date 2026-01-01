@@ -39,4 +39,4 @@ Development Log
 
 2026
 
-1.1：写入Seat_iptf函数，优化Fleetf、Planeinf_iptf、Cash_flowf、Pricef、Inif函数，优化飞机具体数据
+1.1：写入Seat_iptf函数，优化Fleetf、Planeinf_iptf、Cash_flowf、Pricef、Inif、Purchasef函数，优化飞机具体数据
