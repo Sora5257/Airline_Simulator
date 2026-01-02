@@ -42,3 +42,5 @@ Development Log
 1.1：写入Seat_iptf函数，优化Fleetf、Planeinf_iptf、Cash_flowf、Pricef、Inif、Purchasef函数，优化飞机具体数据
 
 1.2：写入Oil_iptf函数，优化Purchase_introf、Fleetf、Pricef、Seat_iptf、Cash_flowf函数
+
+1.3：写入Copyf函数
