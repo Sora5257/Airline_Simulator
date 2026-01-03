@@ -43,4 +43,4 @@ Development Log
 
 1.2：写入Oil_iptf函数，优化Purchase_introf、Fleetf、Pricef、Seat_iptf、Cash_flowf函数
 
-1.3：写入Copyf函数
+1.3：写入Copyf、Menu函数、优化Idle_updatef、Routef函数
